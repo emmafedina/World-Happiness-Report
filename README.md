@@ -7,9 +7,9 @@ Analyzing factors that make countries happy
 
 Description
 
-The goal of this project is to show people what factors are important for happiness of the population. This projects analyzes different factors and shows which factores
-are more important. This projects uses information from 2015-2022 that gives us a wide spector of information. 
-This project also include helpfull diograms and maps for the reader.
+The objective of this project is to present a comprehensive analysis of the factors that contribute to the overall happiness of the population. Through an extensive examination of multiple variables, this project identifies and prioritizes the factors that have the greatest impact on the well-being of individuals. The study utilizes data collected between 2015 and 2022, thus providing a broad and inclusive perspective on the subject.
+
+To enhance the understanding of the findings, this project employs insightful diagrams and maps that facilitate the comprehension and interpretation of the results. The use of these visual aids provides the reader with a clear and concise overview of the research, as well as a detailed understanding of the correlations between the variables.
 
 Visuals
 <img width="1065" alt="Screenshot 2023-04-13 at 3 53 25 PM" src="https://user-images.githubusercontent.com/73077499/231900128-9897f190-1852-41c8-a42d-e93a9c940f12.png">
